@@ -3,6 +3,10 @@ package org.sam.soap.service;
 import java.util.List;
 import org.sam.soap.entity.Employee;
 
+/**
+ * @author sumit
+ *
+ */
 public interface IEmployeeService {
 
 	List<Employee> getAllEmployees();

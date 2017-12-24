@@ -7,6 +7,10 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
+/**
+ * @author sumit
+ *
+ */
 public class SoapWSAppTest 
     extends TestCase
 {

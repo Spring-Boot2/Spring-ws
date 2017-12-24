@@ -23,6 +23,10 @@ import org.springframework.ws.server.endpoint.annotation.PayloadRoot;
 import org.springframework.ws.server.endpoint.annotation.RequestPayload;
 import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
 
+/**
+ * @author sumit
+ *
+ */
 @Endpoint
 public class EmployeeEndpoint {
 	private static final String NAMESPACE_URI = "http://www.concretepage.com/employee-ws";
