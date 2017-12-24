@@ -1,4 +1,4 @@
-# Spring WS / Basic CRUD Operation Using SOAP
+# Spring WS With Spring Boot And Spring Data JPA / Basic CRUD Operation Using SOAP
 
 * Get All Employees
 * URL : http://localhost:8888/SpringSoapWS/employees.wsdl
